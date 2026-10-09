@@ -1,0 +1,28 @@
+
+{
+  "id": "simplyvanilla",
+  "name": "SimplyVanilla",
+  "description": "Join SimplyVanilla for a fun simple multiplayer survival experience!",
+  "addresses": [
+    "simplyvanilla.us"
+  ],
+  "primaryAddress": "play.simplyvanilla.us",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#55FF55",
+  "secondaryColor": "#202020",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ]
+}
