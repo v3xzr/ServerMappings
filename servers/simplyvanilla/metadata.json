@@ -16,8 +16,8 @@
     "26.*"
   ],
   "primaryMinecraftVersion": "26.3",
-  "primaryColor": "#55FF55",
-  "secondaryColor": "#202020",
+  "primaryColor": "#00CF00",
+  "secondaryColor": "#FFFFFF",
   "gameTypes": [
     "Survival"
   ],
